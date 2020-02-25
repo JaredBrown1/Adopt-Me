@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/JaredBrown1/Adopt-Me#readme",
   "devDependencies": {
+    "eslint-plugin-react-hooks": "^2.4.0",
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
+    "@frontendmasters/pet": "^1.0.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
